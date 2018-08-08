@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+main
+
+#microsoft
+.vs/
+.vscode/
+
+#deadcode
+/deadcode/
